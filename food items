@@ -7,20 +7,20 @@ main()
 	switch(choice)
 	{
 		case 1:
-			printf("food item-french fries price-Rs 99\n.");
+			printf("food item-French fries\n Price-Rs 99.");
 			break;
 			case 2:
-				printf("food item-burger price- 129\n.");
+				printf("food item-Burger\n Price- 129.");
 				break;
 				case 3:
-					printf("food item-pizza price-Rs 239\n.");
+					printf("food item-Pizza\n Price-Rs 239.");
 					break;
 					case 4:
-						printf("food item-sandwich price-Rs 149\n.");
+						printf("food item-Sandwich\n Price-Rs 149.");
 						break;
 						case 5:
-							printf("food item-pasta price-Rs 179\n");
+							printf("food item-Pasta\n Price-Rs 179");
 							break;
-						default:printf("food item-biryani price-200");
+						default:printf("food item-Biryani\n Price-200");
 	}
 }
